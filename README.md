@@ -7,10 +7,9 @@
 Caso nao saiba oque é gambiarra (acho impossivel q nao saiba):                                                                                                            
 G rande                                                                                                                                   
  A rtifício da                                                                                                                             
-  M ecanica
+  M ecanica                                                                                                                               
    B rasileira                                                                                                                             
     I nventada para                                                                                                                       
-     A rrumar,
-      R ecuperar ou
-       R ealiaz
-        A algo.
+     A rrumar,                                                                                                                             
+      R ecuperar ou                                                                                                                       
+       R ealiaz                                                                                                                                   A algo.                                                                                                                                                      
