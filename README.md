@@ -5,6 +5,7 @@
 ---------------------------------------------------------------------------
 
 Caso nao saiba oque é gambiarra (acho impossivel q nao saiba):
+
 G rande
 A rtifício da
 M ecanica
@@ -14,3 +15,4 @@ A rrumar,
 R ecuperar ou
 R ealiaz
 A algo.
+
